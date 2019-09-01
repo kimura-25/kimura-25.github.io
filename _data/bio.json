@@ -6,7 +6,7 @@
     "email": "kimura25@hawaii.edu",
     "phone": "808-228-2145",
     "website": "https://kimura-25.github.io",
-    "summary": "Currently a student in MIS and Music graduating Spring 2021. Still doesn't know exactly what she wants to do, but is walking to the beat of her own tuba.",
+    "summary": "I am currently majoring in Management Information Systems and Music at the University of Hawaii at Manoa. I expect to graduate in Spring 2021.",
     "location": {
       "address": "2404 Maile Way",
       "postalCode": "96822",
@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-      "name": "music",
+      "name": "Marching band",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "business",
+      "name": "judo",
       "keywords": [
       ]
     },
     {
-      "name": "economics",
+      "name": "bon dancing",
       "keywords": [
       ]
     }
