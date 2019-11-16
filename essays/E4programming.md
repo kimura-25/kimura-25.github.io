@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: E4: My Progress in Programming
 date: 2019-11-15
 labels:
