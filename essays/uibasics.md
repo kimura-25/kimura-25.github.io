@@ -4,7 +4,8 @@ type: essay
 title: E1 - UI Basics Technical Blog
 date: 2019-08-31
 labels:
-  - Self Introduction
+  - UI
+  - Basics
 ---
 
 Recently, I just completed my first set of WODs. It definitely took up a lot more time than expected. Although the times that it should take to finish the exercises are under 20-30 minutes per exercise, each one definitely took longer than it should have. For example, I have been on Browser History 2 for hours on end trying to figure out what was not working. Although I cannot exactly remember what it was at the moment, I feel that a lot of my mistakes have come from missing something as small as a semi colon, or forgetting a tag somewhere.
