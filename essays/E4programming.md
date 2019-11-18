@@ -11,7 +11,7 @@ labels:
 
 Overall, I feel that my understanding of programming has improved since the beginning. Going through Assignment 1, I was forced to learn what each line of code meant and figure out how that applied to my own project. Additionally, I have been able to learn better to avoid common errors, such as missing brackets and semicolons and wrong variable references, and where to place them.
 
-I’m not sure if I can necessarily say that I am enthusiastic about programming because through the WODs, labs, and first assignment, I have struggled a lot with understanding the code and getting it to work. However, I am proud of what I have accomplished in my output and understanding thus far. I went from knowing nothing about coding to creating a functional website with a server.
+I’m not sure if I can say that I am enthusiastic about programming because through the WODs, labs, and first assignment, I have struggled a lot with understanding the code and getting it to work. However, I am proud of what I have accomplished in my output and understanding thus far. I went from knowing nothing about coding to creating a functional website with a server.
 
 For the assignments, I have become slightly more confident in completing the WODs and labs. One time, we had to complete two “short” WODs for homework. Initially, I freaked out because there were no videos posted for them. Fortunately, although it took me a little over two hours to complete what was supposed to be a cumulative time of 12 minutes for both WODs. The ability to complete both without the videos gave me a sense of relief and boosted my confidence in that I was able to do both without help.
 
