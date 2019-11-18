@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: E1 - UI Basics Technical Blog
-date: 2019-08-31
+title: E4 - Progress in Programming Report
+date: 2019-11-17
 labels:
-  - UI
-  - Basics
+  - programming
+  - Javascript
+  - WODs
 ---
 
 Overall, I feel that my understanding of programming has improved since the beginning. Going through Assignment 1, I was forced to learn what each line of code meant and figure out how that applied to my own project. Additionally, I have been able to learn better to avoid common errors, such as missing brackets and semicolons and wrong variable references, and where to place them.
