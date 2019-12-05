@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: E5 - Reflecting on Assignment 2
-date: 2019-12-5
+date: 2019-12-04
 labels:
   - Assignment2
   - File I/O
