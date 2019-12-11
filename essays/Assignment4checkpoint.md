@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Checkpoint Assignment 4
-date: 2019-12-10
+date: 2019-12-09
 labels:
   - Assignment4
   - File I/O
